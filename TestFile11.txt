@@ -1,1 +1,1 @@
-The Elo rating system is a method for calculating the relative skill levels of players in zero-sum games such as chess or esports. It is named after its 
+The Elo rating system is a method for calculating the relative skill levels of players in zero-sum games such as chess or esports.
